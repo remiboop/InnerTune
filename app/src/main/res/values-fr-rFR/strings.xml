@@ -2,6 +2,7 @@
     <!-- Bottom navigation -->
     <string name="home">Accueil</string>
     <string name="songs">Chansons</string>
+    <string name="explore">Explorer</string>
     <string name="artists">Artistes</string>
     <string name="albums">Albums</string>
     <string name="playlists">Listes de lecture</string>
